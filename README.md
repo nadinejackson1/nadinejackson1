@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **breaking into machine learning as a POC & woman here**
 
-- 📫 How to reach me **mailto:nadine@himandthyme.com**
+- 📫 How to reach me **nadine@himandthyme.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1eMqM-MPGsddP60V_VdzApQdeJ5ctTGm5OIwlcN2sck8/edit?usp=sharing](https://docs.google.com/document/d/1eMqM-MPGsddP60V_VdzApQdeJ5ctTGm5OIwlcN2sck8/edit?usp=sharing)
 
