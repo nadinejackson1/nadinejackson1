@@ -1,6 +1,5 @@
-<h1 align="center">Hi there!</h1>[image](https://user-images.githubusercontent.com/98008171/227831023-92ca4b46-6a37-4441-932f-d051ad68a4dc.png)
-<h1 aligh="center">I'm Nadine</h1>
-<h3 align="center">A machine learning engineer, transforming data into meaningful solutions with AI and a mission for good</h3>
+<h1 align="center">Welcome 👋, I'm Nadine</h1>
+<h3 align="center">A machine learning engineer from the U.S.</h3>
 
 - 🔭 I’m currently working on [Implementing Callbacks in TensorFlow using the MNIST Dataset](https://github.com/NadineJackson1/tensorflow-callbacks-using-mnist.git)
 
