@@ -1,5 +1,5 @@
 <h1 align="center">Welcome 👋 I'm Nadine</h1>
-<h3 align="center">I enjoy python🐍 tensorflow🌊 keras🥕 numpy🧮 pandas🐼 aws☁️ & postgresql🐘 to build projects centered around creating meaningful change for people + communities✨ • classic book collector📚 • roller skating lover🛼 </h3>
+<h3 align="center">I enjoy python🐍 tensorflow🌊 numpy🧮 pandas🐼 aws☁️ & postgresql🐘 to build projects centered around creating meaningful change for people + communities✨ • classic book collector📚 • roller skating lover🛼 </h3>
 
 - 🔭 I’m currently working on [Implementing Callbacks in TensorFlow using the MNIST Dataset](https://github.com/NadineJackson1/tensorflow-callbacks-using-mnist.git)
 
