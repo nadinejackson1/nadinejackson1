@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://www.himandthyme.com](https://www.himandthyme.com)
 
-- 💬 Ask me about **breaking into machine learning as a POC & woman here**
+- 💬 Ask me about [breaking into machine learning as a POC & woman](https://www.himandthyme.com/say-hi/)
 
 - 📫 How to reach me **nadine@himandthyme.com**
 
