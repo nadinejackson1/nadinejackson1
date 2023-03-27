@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadinejackson1&label=Profile%20views&color=0e75b6&style=flat" alt="nadinejackson1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadinejackson1" alt="nadinejackson1" /></a> </p>
-
 - 🔭 I’m currently working on [Implementing Callbacks in TensorFlow using the MNIST Dataset](https://github.com/NadineJackson1/tensorflow-callbacks-using-mnist.git)
 
 - 👩‍🔬 I’m currently indulging in **Deep Learning**
