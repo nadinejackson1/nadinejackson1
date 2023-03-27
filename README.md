@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **Did you know that the shortest recorded war in history was fought between Zanzibar and Great Britain in 1896? While the war lasted only 38 minutes,      its implications for the people of Zanzibar were profound.** *The British victory marked the end of Zanzibar's sovereignty and the start of a period of colonization and economic transformation. Although the British abolished the slave trade, which had been a source of oppression and human rights abuses, their rule was not without challenges, including political instability and tensions between different ethnic and religious groups. Zanzibar ultimately gained independence in 1963, but the legacy of British colonialism has had lasting effects on the island nation and its people.*
 
-### Blogs posts
+### 📙Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
