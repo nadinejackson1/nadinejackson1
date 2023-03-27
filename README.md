@@ -3,23 +3,23 @@
 
 - 🔭 I’m currently working on [Implementing Callbacks in TensorFlow using the MNIST Dataset](https://github.com/NadineJackson1/tensorflow-callbacks-using-mnist.git)
 
-- 🌱 I’m currently indulging in **Deep Learning**
+- 👩‍🔬 I’m currently indulging in **Deep Learning**
 
 - 🤝 I’m looking to collaborate on [Transportation Safety and Environmental Protection](https://github.com/NadineJackson1/tensorflow-callbacks-using-mnist.git)
 
-- 👩‍💻 All of my projects are available at [Github](https://www.github.com/nadinejackson1)
+- 👩‍💻 All of my projects are available on [Github](https://www.github.com/nadinejackson1)
 
-- 📝 I regularly write articles on [HIM&thyme](https://www.himandthyme.com)
+- 📝 I regularly write articles about tech, family, faith & nutrition at [HIM&thyme](https://www.himandthyme.com)
 
 - 💬 Ask me how I [entered the world of machine learning as a POC](https://www.himandthyme.com/say-hi/)
 
 - 📫 How to reach me **nadine@himandthyme.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Joruaaultn9rDO9mpwHN4NlQ9Dv8DAa3/view?usp=share_link)
+- 📄 Read about my experiences on my [Resume](https://drive.google.com/file/d/1Joruaaultn9rDO9mpwHN4NlQ9Dv8DAa3/view?usp=share_link)
 
-- ⚡ Fun fact **Did you know that the shortest recorded war in history was fought between Zanzibar and Great Britain in 1896? While the war lasted only 38 minutes,      its implications for the people of Zanzibar were profound.** *The British victory marked the end of Zanzibar's sovereignty and the start of a period of colonization and economic transformation. Although the British abolished the slave trade, which had been a source of oppression and human rights abuses, their rule was not without challenges, including political instability and tensions between different ethnic and religious groups. Zanzibar ultimately gained independence in 1963, but the legacy of British colonialism has had lasting effects on the island nation and its people.*
+- 🌞 Little known history fact **Did you know that the shortest recorded war in history was fought between Zanzibar and Great Britain in 1896? While the war lasted only 38 minutes, its implications for the people of Zanzibar were profound.** *The British victory marked the end of Zanzibar's sovereignty and the start of a period of colonization and economic transformation. Although the British abolished the slave trade, which had been a source of oppression and human rights abuses, their rule was not without challenges, including political instability and tensions between different ethnic and religious groups. Zanzibar ultimately gained independence in 1963, but the legacy of British colonialism has had lasting effects on the island nation and its people.*
 
-### 📙Latest blog posts
+### 🚀Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Boost Your Mood and Energy with These Nutrient-Packed Foods](https://www.himandthyme.com/boost-your-mood-and-energy-with-these-nutrient-packed-foods/?utm_source=rss&utm_medium=rss&utm_campaign=boost-your-mood-and-energy-with-these-nutrient-packed-foods)
 - [The AI Wars Have Begun: “Welcome to the desert of the real”](https://www.himandthyme.com/the-ai-wars-have-begun-welcome-to-the-desert-of-the-real/?utm_source=rss&utm_medium=rss&utm_campaign=the-ai-wars-have-begun-welcome-to-the-desert-of-the-real)
