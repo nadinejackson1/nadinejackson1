@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nadine</h1>
 <h3 align="center">A Machine Learning Engineer for Good!</h3>
 
-- 🔭 I’m currently working on **Civil Liberties and Historical Analysis**
+- 🔭 I’m currently working on [Implementing Callbacks in TensorFlow using the MNIST Dataset](https://github.com/NadineJackson1/tensorflow-callbacks-using-mnist.git)
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 🤝 I’m looking to collaborate on **Transportation Safety and Environmental Protection**
+- 🤝 I’m looking to collaborate on [Transportation Safety and Environmental Protection](https://github.com/NadineJackson1/tensorflow-callbacks-using-mnist.git)
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/nadinejackson1](https://www.github.com/nadinejackson1)
 
