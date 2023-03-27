@@ -1,5 +1,6 @@
 name: Latest blog post profile workflow manual
 on: 
+    workflow_dispatch:
     schedule:
         - cron: '0 * * * *'
 jobs: 
