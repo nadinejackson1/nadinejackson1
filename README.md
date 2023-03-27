@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Implementing Callbacks in TensorFlow using the MNIST Dataset](https://github.com/NadineJackson1/tensorflow-callbacks-using-mnist.git)
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently indulging in **Deep Learning**
 
 - 🤝 I’m looking to collaborate on [Transportation Safety and Environmental Protection](https://github.com/NadineJackson1/tensorflow-callbacks-using-mnist.git)
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [Him&thyme](https://www.himandthyme.com)
 
-- 💬 Ask me how I [broke into machine learning as a POC and as someone with a trauma background](https://www.himandthyme.com/say-hi/)
+- 💬 Ask me how I [entered the world of machine learning as a POC](https://www.himandthyme.com/say-hi/)
 
 - 📫 How to reach me **nadine@himandthyme.com**
 
