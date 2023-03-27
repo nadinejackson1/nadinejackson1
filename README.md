@@ -1,4 +1,4 @@
-<h1 align="center">Hi (https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966), I'm Nadine</h1>
+<h1 align="center">Hi [(https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966)], I'm Nadine</h1>
 <h3 align="center">A machine learning engineer, transforming data into meaningful solutions with AI and a mission for good</h3>
 
 - 🔭 I’m currently working on [Implementing Callbacks in TensorFlow using the MNIST Dataset](https://github.com/NadineJackson1/tensorflow-callbacks-using-mnist.git)
