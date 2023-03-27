@@ -7,15 +7,15 @@
 
 - 🤝 I’m looking to collaborate on [Transportation Safety and Environmental Protection](https://github.com/NadineJackson1/tensorflow-callbacks-using-mnist.git)
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/nadinejackson1](https://www.github.com/nadinejackson1)
+- 👨‍💻 All of my projects are available at [Github](https://www.github.com/nadinejackson1)
 
-- 📝 I regularly write articles on [https://www.himandthyme.com](https://www.himandthyme.com)
+- 📝 I regularly write articles on [Him&thyme](https://www.himandthyme.com)
 
 - 💬 Ask me how I [broke into machine learning as a POC and as someone with a trauma background](https://www.himandthyme.com/say-hi/)
 
 - 📫 How to reach me **nadine@himandthyme.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1eMqM-MPGsddP60V_VdzApQdeJ5ctTGm5OIwlcN2sck8/edit?usp=sharing](https://docs.google.com/document/d/1eMqM-MPGsddP60V_VdzApQdeJ5ctTGm5OIwlcN2sck8/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Joruaaultn9rDO9mpwHN4NlQ9Dv8DAa3/view?usp=share_link)
 
 - ⚡ Fun fact **Did you know that the shortest recorded war in history was fought between Zanzibar and Great Britain in 1896? While the war lasted only 38 minutes,      its implications for the people of Zanzibar were profound.** *The British victory marked the end of Zanzibar's sovereignty and the start of a period of colonization and economic transformation. Although the British abolished the slave trade, which had been a source of oppression and human rights abuses, their rule was not without challenges, including political instability and tensions between different ethnic and religious groups. Zanzibar ultimately gained independence in 1963, but the legacy of British colonialism has had lasting effects on the island nation and its people.*
 
