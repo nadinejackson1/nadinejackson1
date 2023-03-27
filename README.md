@@ -7,9 +7,9 @@
 
 - 🤝 I’m looking to collaborate on [Transportation Safety and Environmental Protection](https://github.com/NadineJackson1/tensorflow-callbacks-using-mnist.git)
 
-- 👨‍💻 All of my projects are available at [Github](https://www.github.com/nadinejackson1)
+- 👩‍💻 All of my projects are available at [Github](https://www.github.com/nadinejackson1)
 
-- 📝 I regularly write articles on [Him&thyme](https://www.himandthyme.com)
+- 📝 I regularly write articles on [HIM&thyme](https://www.himandthyme.com)
 
 - 💬 Ask me how I [entered the world of machine learning as a POC](https://www.himandthyme.com/say-hi/)
 
