@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nadine</h1>
-<h3 align="center">A Machine Learning Engineer for Good!</h3>
+<h3 align="center">A machine learning engineer, transforming data into meaningful solutions with AI and a mission for good</h3>
 
 - 🔭 I’m currently working on [Implementing Callbacks in TensorFlow using the MNIST Dataset](https://github.com/NadineJackson1/tensorflow-callbacks-using-mnist.git)
 
