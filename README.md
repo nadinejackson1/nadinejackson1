@@ -1,4 +1,5 @@
-<h1 align="center">Welcome I'm Nadine</h1>![Rubiks cube](https://github.com/NadineJackson1/nadinejackson1/blob/main/rubikscube.gif)
+<h1 align="center">Welcome, I'm Nadine</h1>
+![Rubiks cube](https://github.com/NadineJackson1/nadinejackson1/blob/main/rubikscube.gif)
 <h3 align="center">I enjoy python🐍 tensorflow🌊 numpy🧮 pandas🐼 aws☁️ & postgresql🐘 to build projects centered around creating meaningful change for people + communities✨ • classic book collector📚 • roller skating lover🛼 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadinejackson1&label=Profile%20views&color=0e75b6&style=flat" alt="nadinejackson1" /> </p>
