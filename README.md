@@ -1,4 +1,4 @@
-<h1 align="center">Welcome![Rubic's cube, remote](https://media.giphy.com/media/V25gdutt6iuWc/giphy.gif) I'm Nadine</h1>
+<h1 align="center">Welcome, I'm Nadine</h1>https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/lottie.json
 <h3 align="center">I enjoy python🐍 tensorflow🌊 numpy🧮 pandas🐼 aws☁️ & postgresql🐘 to build projects centered around creating meaningful change for people + communities✨ • classic book collector📚 • roller skating lover🛼 </h3>
 
 
