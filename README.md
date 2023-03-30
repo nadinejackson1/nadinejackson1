@@ -1,4 +1,4 @@
-<h1 align="center">Welcome ![Waving hand](512.gif)I'm Nadine</h1>
+<h1 align="center">Welcome I'm Nadine</h1> ![Waving hand](512.gif)
 <h3 align="center">I enjoy python🐍 tensorflow🌊 numpy🧮 pandas🐼 aws☁️ & postgresql🐘 to build projects centered around creating meaningful change for people + communities✨ • classic book collector📚 • roller skating lover🛼 </h3>
 
 
