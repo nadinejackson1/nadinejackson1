@@ -1,4 +1,4 @@
-<h1 align="center">Welcome <img align="right" width="200" height="100" alt="rubiks cube" src="https://github.com/NadineJackson1/nadinejackson1/blob/main/rubikscube.gif"> I'm Nadine </h1>
+<h1 align="center">Welcome <img align="center" width="100" height="50" alt="rubiks cube" src="https://github.com/NadineJackson1/nadinejackson1/blob/main/rubikscube.gif"> I'm Nadine </h1>
 
 
 <h3 align="center">I enjoy python🐍 tensorflow🌊 numpy🧮 pandas🐼 aws☁️ & postgresql🐘 to build projects centered around creating meaningful change for people + communities✨ • classic book collector📚 • roller skating lover🛼 </h3>
