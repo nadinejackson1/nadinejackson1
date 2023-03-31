@@ -32,7 +32,7 @@
 - [Unleashing Artificial Intelligence: The Top 6 Technologies and How to Use Them](https://www.himandthyme.com/unleashing-the-power-of-ai-for-tech-moms-a-comprehensive-guide-to-the-top-6-technologies-and-how-to-use-them-in-your-online-business/?utm_source=rss&utm_medium=rss&utm_campaign=unleashing-the-power-of-ai-for-tech-moms-a-comprehensive-guide-to-the-top-6-technologies-and-how-to-use-them-in-your-online-business)
 - [Unlocking the Secrets of Child Brain Development: A Comprehensive Guide for Moms using the Neurosequential Model of Therapeutics &lpar;NMT&rpar;](https://www.himandthyme.com/unlocking-the-secrets-of-child-brain-development-a-comprehensive-guide-for-moms-using-the-neurosequential-model-of-therapeutics-nmt/?utm_source=rss&utm_medium=rss&utm_campaign=unlocking-the-secrets-of-child-brain-development-a-comprehensive-guide-for-moms-using-the-neurosequential-model-of-therapeutics-nmt)
 <!-- BLOG-POST-LIST:END -->
-![Snake animation](https://github.com/NadineJackson1/nadinejackson1/blob/output/github-contribution-grid-snake.svg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/himandthyme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himandthyme" height="30" width="40" /></a>
