@@ -1,9 +1,8 @@
 <h1 align="center">Welcome, I'm Nadine <img src="https://github.com/NadineJackson1/nadinejackson1/blob/main/tumblr_1bef7a46c8e5acfe80c6e18872e8852e_fbf4ffab_540.gif" width="100" height="100" style="float:right" alt="Isabelle"> </h1>
 
 
-<h3 align="center">I enjoy building projects centered around creating meaningful change for people + communities✨</h3> 
+<h3 align="center">I enjoy building projects centered around creating meaningful change for people + communities✨</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadinejackson1&label=Profile%20views&color=0e75b6&style=flat" alt="nadinejackson1" /> </p>
 
 - 🔭 I’m currently working on [Implementing Callbacks in TensorFlow using the MNIST Dataset](https://github.com/NadineJackson1/tensorflow-callbacks-using-mnist.git)
 
@@ -26,8 +25,6 @@
 - 🌞 Little known history fact **Did you know that the shortest recorded war in history was fought between Zanzibar and Great Britain in 1896? While the war lasted only 38 minutes, its implications for the people of Zanzibar were profound.** *The British victory marked the end of Zanzibar's sovereignty and the start of a period of colonization and economic transformation. Although the British abolished the slave trade, which had been a source of oppression and human rights abuses, their rule was not without challenges, including political instability and tensions between different ethnic and religious groups. Zanzibar ultimately gained independence in 1963, but the legacy of British colonialism has had lasting effects on the island nation and its people.*
 
 
-![snake gif](https://github.com/nadinejackson1/nadinejackson1/blob/output/github-contribution-grid-snake.gif)
-
 ### 🚀Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Boost Your Mood and Energy with These Nutrient-Packed Foods](https://www.himandthyme.com/boost-your-mood-and-energy-with-these-nutrient-packed-foods/?utm_source=rss&utm_medium=rss&utm_campaign=boost-your-mood-and-energy-with-these-nutrient-packed-foods)
@@ -36,6 +33,10 @@
 - [Unleashing Artificial Intelligence: The Top 6 Technologies and How to Use Them](https://www.himandthyme.com/unleashing-the-power-of-ai-for-tech-moms-a-comprehensive-guide-to-the-top-6-technologies-and-how-to-use-them-in-your-online-business/?utm_source=rss&utm_medium=rss&utm_campaign=unleashing-the-power-of-ai-for-tech-moms-a-comprehensive-guide-to-the-top-6-technologies-and-how-to-use-them-in-your-online-business)
 - [Unlocking the Secrets of Child Brain Development: A Comprehensive Guide for Moms using the Neurosequential Model of Therapeutics &lpar;NMT&rpar;](https://www.himandthyme.com/unlocking-the-secrets-of-child-brain-development-a-comprehensive-guide-for-moms-using-the-neurosequential-model-of-therapeutics-nmt/?utm_source=rss&utm_medium=rss&utm_campaign=unlocking-the-secrets-of-child-brain-development-a-comprehensive-guide-for-moms-using-the-neurosequential-model-of-therapeutics-nmt)
 <!-- BLOG-POST-LIST:END -->
+
+![snake gif](https://github.com/nadinejackson1/nadinejackson1/blob/output/github-contribution-grid-snake.gif)
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=nadinejackson1&theme=algolia&no-bg=true&no-frame=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -52,3 +53,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadinejackson1&show_icons=true&locale=en" alt="nadinejackson1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadinejackson1&" alt="nadinejackson1" /></p>
+
