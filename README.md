@@ -25,6 +25,9 @@
 
 - 🌞 Little known history fact **Did you know that the shortest recorded war in history was fought between Zanzibar and Great Britain in 1896? While the war lasted only 38 minutes, its implications for the people of Zanzibar were profound.** *The British victory marked the end of Zanzibar's sovereignty and the start of a period of colonization and economic transformation. Although the British abolished the slave trade, which had been a source of oppression and human rights abuses, their rule was not without challenges, including political instability and tensions between different ethnic and religious groups. Zanzibar ultimately gained independence in 1963, but the legacy of British colonialism has had lasting effects on the island nation and its people.*
 
+
+![snake gif](https://github.com/nadinejackson1/nadinejackson1/blob/output/github-contribution-grid-snake.gif)
+
 ### 🚀Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Boost Your Mood and Energy with These Nutrient-Packed Foods](https://www.himandthyme.com/boost-your-mood-and-energy-with-these-nutrient-packed-foods/?utm_source=rss&utm_medium=rss&utm_campaign=boost-your-mood-and-energy-with-these-nutrient-packed-foods)
@@ -49,5 +52,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadinejackson1&show_icons=true&locale=en" alt="nadinejackson1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadinejackson1&" alt="nadinejackson1" /></p>
-
-![snake gif](https://github.com/nadinejackson1/nadinejackson1/blob/output/github-contribution-grid-snake.gif)
