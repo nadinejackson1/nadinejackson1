@@ -1,8 +1,7 @@
 <h1 align="center">Welcome, I'm Nadine <img src="https://github.com/NadineJackson1/nadinejackson1/blob/main/tumblr_1bef7a46c8e5acfe80c6e18872e8852e_fbf4ffab_540.gif" width="100" height="100" style="float:right" alt="Isabelle"> </h1>
 
 
-<h3 align="center">I enjoy python🐍 tensorflow🌊 numpy🧮 pandas🐼 aws☁️ & postgresql🐘 to build projects centered around creating meaningful change for people + communities✨ • classic book collector📚 • roller skating lover🛼 </h3>
-
+<h3 align="center">I enjoy building projects centered around creating meaningful change for people + communities✨</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadinejackson1&label=Profile%20views&color=0e75b6&style=flat" alt="nadinejackson1" /> </p>
 
@@ -21,6 +20,8 @@
 - 📫 How to reach me **nadine@himandthyme.com**
 
 - 📄 Learn about my experiences on my [Resume](https://drive.google.com/file/d/1Joruaaultn9rDO9mpwHN4NlQ9Dv8DAa3/view?usp=share_link)
+
+- 😎 I'm a classic book enthusiast📚 & roller skating lover🛼
 
 - 🌞 Little known history fact **Did you know that the shortest recorded war in history was fought between Zanzibar and Great Britain in 1896? While the war lasted only 38 minutes, its implications for the people of Zanzibar were profound.** *The British victory marked the end of Zanzibar's sovereignty and the start of a period of colonization and economic transformation. Although the British abolished the slave trade, which had been a source of oppression and human rights abuses, their rule was not without challenges, including political instability and tensions between different ethnic and religious groups. Zanzibar ultimately gained independence in 1963, but the legacy of British colonialism has had lasting effects on the island nation and its people.*
 
