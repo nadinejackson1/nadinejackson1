@@ -8,7 +8,7 @@
 
 - 👩‍🔬 I’m currently indulging in **Deep Learning**
 
-- 🤝 I’m looking to collaborate on [Transportation Safety and Environmental Protection](https://github.com/NadineJackson1/tensorflow-callbacks-using-mnist.git)
+- 🤝 I’m looking to collaborate on [Transportation Safety and Environmental Protection](https://github.com/nadinejackson1/transportation-safety-environmental-protection)
 
 - 👩‍💻 All of my projects are available on [Github](https://www.github.com/nadinejackson1)
 
