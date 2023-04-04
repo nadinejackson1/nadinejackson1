@@ -25,11 +25,11 @@
 
 ### 🚀Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Train Derailments &amp; Hazmat Spills: A Machine Learning &lpar;Mis&rpar;adventure](https://www.himandthyme.com/train-derailments-hazmat-spills-a-machine-learning-misadventure/?utm_source=rss&utm_medium=rss&utm_campaign=train-derailments-hazmat-spills-a-machine-learning-misadventure)
 - [Boost Your Mood and Energy with These Nutrient-Packed Foods](https://www.himandthyme.com/boost-your-mood-and-energy-with-these-nutrient-packed-foods/?utm_source=rss&utm_medium=rss&utm_campaign=boost-your-mood-and-energy-with-these-nutrient-packed-foods)
 - [The AI Wars Have Begun: “Welcome to the desert of the real”](https://www.himandthyme.com/the-ai-wars-have-begun-welcome-to-the-desert-of-the-real/?utm_source=rss&utm_medium=rss&utm_campaign=the-ai-wars-have-begun-welcome-to-the-desert-of-the-real)
 - [Healing and Parenting: How Unresolved Trauma Is Sabotaging Parenting](https://www.himandthyme.com/healing-and-parenting-how-unresolved-trauma-is-sabotaging-parenting/?utm_source=rss&utm_medium=rss&utm_campaign=healing-and-parenting-how-unresolved-trauma-is-sabotaging-parenting)
 - [Unleashing Artificial Intelligence: The Top 6 Technologies and How to Use Them](https://www.himandthyme.com/unleashing-the-power-of-ai-for-tech-moms-a-comprehensive-guide-to-the-top-6-technologies-and-how-to-use-them-in-your-online-business/?utm_source=rss&utm_medium=rss&utm_campaign=unleashing-the-power-of-ai-for-tech-moms-a-comprehensive-guide-to-the-top-6-technologies-and-how-to-use-them-in-your-online-business)
-- [Unlocking the Secrets of Child Brain Development: A Comprehensive Guide for Moms using the Neurosequential Model of Therapeutics &lpar;NMT&rpar;](https://www.himandthyme.com/unlocking-the-secrets-of-child-brain-development-a-comprehensive-guide-for-moms-using-the-neurosequential-model-of-therapeutics-nmt/?utm_source=rss&utm_medium=rss&utm_campaign=unlocking-the-secrets-of-child-brain-development-a-comprehensive-guide-for-moms-using-the-neurosequential-model-of-therapeutics-nmt)
 <!-- BLOG-POST-LIST:END -->
 
 ![snake gif](https://github.com/nadinejackson1/nadinejackson1/blob/output/github-contribution-grid-snake.gif)
