@@ -1,4 +1,5 @@
-<h1 align="center">Welcome, I'm Nadine <img src="https://github.com/NadineJackson1/nadinejackson1/blob/main/tumblr_1bef7a46c8e5acfe80c6e18872e8852e_fbf4ffab_540.gif" width="100" height="100" style="float:right" alt="Isabelle"> </h1>
+![](https://github.com/nadinejackson1/nadinejackson1/blob/main/Github%20Pink%20And%20Purple%20Colorful%20Computer.gif) 
+<h1 align="center">Welcome! I'm Nadine 🫶 <img src="https://github.com/NadineJackson1/nadinejackson1/blob/main/tumblr_1bef7a46c8e5acfe80c6e18872e8852e_fbf4ffab_540.gif" width="0" height="0" style="float:right" alt="Isabelle"> </h1>
 
 
 <h3 align="center">I enjoy building projects centered around creating meaningful change for people + communities✨</h3>
