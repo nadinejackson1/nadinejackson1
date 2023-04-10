@@ -33,7 +33,7 @@
 - [Healing and Parenting: How Unresolved Trauma Is Sabotaging Parenting](https://www.himandthyme.com/healing-and-parenting-how-unresolved-trauma-is-sabotaging-parenting/?utm_source=rss&utm_medium=rss&utm_campaign=healing-and-parenting-how-unresolved-trauma-is-sabotaging-parenting)
 <!-- BLOG-POST-LIST:END -->
 
-![snake gif](https://github.com/nadinejackson1/nadinejackson1/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/nadinejackson1/nadinejackson1/blob/output/github-contribution-grid-snake.svg)
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=nadinejackson1&theme=algolia&no-bg=true&no-frame=true)
 
