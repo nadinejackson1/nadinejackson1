@@ -5,7 +5,7 @@
 <h3 align="center">I enjoy building projects centered around creating meaningful change for people + communities✨</h3>
 
 
-- 🔭 I’m currently working on [Book Banning Comparison](https://github.com/nadinejackson1/book-banning-comparison) & [100 Days of Machine Learning](https://github.com/nadinejackson1/100DaysofML-Day5)
+- 🔭 I’m currently working on [Book Banning Comparison](https://github.com/nadinejackson1/book-banning-comparison) & [100 Days of Machine Learning](https://github.com/nadinejackson1/100DaysofML-Day6)
 
 - 👩‍🔬 I’m currently indulging in **Deep Learning**
 
