@@ -26,11 +26,11 @@
 
 ### 🚀Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [‘100 Days of Machine Learning’ Journey: Week 1 Recap](https://www.himandthyme.com/100-days-of-machine-learning-journey-week-1-recap/?utm_source=rss&utm_medium=rss&utm_campaign=100-days-of-machine-learning-journey-week-1-recap)
 - [Demystifying Gradient Descent for Simple Linear Regression in Python](https://www.himandthyme.com/demystifying-gradient-descent-for-simple-linear-regression-in-python/?utm_source=rss&utm_medium=rss&utm_campaign=demystifying-gradient-descent-for-simple-linear-regression-in-python)
 - [RoadSavior – Revolutionizing Crisis Response with Satellite Imagery and Machine Learning](https://www.himandthyme.com/roadsavior-revolutionizing-crisis-response-with-satellite-imagery-and-machine-learning/?utm_source=rss&utm_medium=rss&utm_campaign=roadsavior-revolutionizing-crisis-response-with-satellite-imagery-and-machine-learning)
 - [Train Derailments &amp; Hazmat Spills: A Machine Learning &lpar;Mis&rpar;adventure](https://www.himandthyme.com/train-derailments-hazmat-spills-a-machine-learning-misadventure/?utm_source=rss&utm_medium=rss&utm_campaign=train-derailments-hazmat-spills-a-machine-learning-misadventure)
 - [Boost Your Mood and Energy with These Nutrient-Packed Foods](https://www.himandthyme.com/boost-your-mood-and-energy-with-these-nutrient-packed-foods/?utm_source=rss&utm_medium=rss&utm_campaign=boost-your-mood-and-energy-with-these-nutrient-packed-foods)
-- [The AI Wars Have Begun: “Welcome to the desert of the real”](https://www.himandthyme.com/the-ai-wars-have-begun-welcome-to-the-desert-of-the-real/?utm_source=rss&utm_medium=rss&utm_campaign=the-ai-wars-have-begun-welcome-to-the-desert-of-the-real)
 <!-- BLOG-POST-LIST:END -->
 
 ![snake gif](https://github.com/nadinejackson1/nadinejackson1/blob/output/github-contribution-grid-snake.svg)
