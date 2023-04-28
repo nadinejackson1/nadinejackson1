@@ -28,11 +28,11 @@
 
 ### 🚀Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Machine Learning &amp; Deep Learning for Beginners: A Simple Guide for the Non-Technical Reader](https://www.himandthyme.com/understanding-machine-learning-deep-learning-for-beginners-a-simple-guide-for-the-non-technical-reader/?utm_source=rss&utm_medium=rss&utm_campaign=understanding-machine-learning-deep-learning-for-beginners-a-simple-guide-for-the-non-technical-reader)
 - [‘100 Days of Machine Learning’ Journey: Week 2 Recap](https://www.himandthyme.com/100-days-of-machine-learning-journey-week-2-recap/?utm_source=rss&utm_medium=rss&utm_campaign=100-days-of-machine-learning-journey-week-2-recap)
 - [Understanding and Visualizing Word Embeddings with GloVe and Word2Vec](https://www.himandthyme.com/understanding-and-visualizing-word-embeddings-with-glove-and-word2vec/?utm_source=rss&utm_medium=rss&utm_campaign=understanding-and-visualizing-word-embeddings-with-glove-and-word2vec)
 - [‘100 Days of Machine Learning’ Journey: Week 1 Recap](https://www.himandthyme.com/100-days-of-machine-learning-journey-week-1-recap/?utm_source=rss&utm_medium=rss&utm_campaign=100-days-of-machine-learning-journey-week-1-recap)
 - [Demystifying Gradient Descent for Simple Linear Regression in Python](https://www.himandthyme.com/demystifying-gradient-descent-for-simple-linear-regression-in-python/?utm_source=rss&utm_medium=rss&utm_campaign=demystifying-gradient-descent-for-simple-linear-regression-in-python)
-- [RoadSavior – Revolutionizing Crisis Response with Satellite Imagery and Machine Learning](https://www.himandthyme.com/roadsavior-revolutionizing-crisis-response-with-satellite-imagery-and-machine-learning/?utm_source=rss&utm_medium=rss&utm_campaign=roadsavior-revolutionizing-crisis-response-with-satellite-imagery-and-machine-learning)
 <!-- BLOG-POST-LIST:END -->
 
 ![snake gif](https://github.com/nadinejackson1/nadinejackson1/blob/output/github-contribution-grid-snake.svg)
