@@ -16,4 +16,4 @@ jobs:
       - name: Pull in latest blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "http://himandthyme.com/feed/"
+          feed_list: "https://himandthyme.com/feed/"
