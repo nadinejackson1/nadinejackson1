@@ -5,26 +5,23 @@
 <h3 align="center">I enjoy building projects centered around creating meaningful change for people + communities✨</h3>
 
 
-- 🔭 I’m currently working on [100 Days of Machine Learning](https://github.com/nadinejackson1/100DaysofML)
+- 🔭 I’m currently working on the [100 Days of Machine Learning](https://github.com/nadinejackson1/100DaysofML) challenge, exploring the depth of AI and its infinite possibilities. 
 
-- 👩‍🔬 I’m currently indulging in **Deep Reinforcement Learning**
+- 👩‍🔬 Diving deep into the world of **Decentralized Machine Learning**, deciphering its intricacies for better, fairer systems.
 
-- 🤝 I’m looking to collaborate on [Transportation Safety and Environmental Protection](https://github.com/nadinejackson1/transportation-safety-environmental-protection)
+- 🤝 Actively seeking collaborators for groundbreaking research papers focusing on **Decentralized learning** and/or **AI ethics**.
 
-- 👩‍💻 All of my projects are available on [Github](https://www.github.com/nadinejackson1)
+- 👩‍💻 You can explore my innovative projects centered on creating meaningful impact on [Github](https://www.github.com/nadinejackson1)
 
 - 📝 I regularly write articles about tech, family, faith & nutrition at [HIM&thyme](https://www.himandthyme.com)
 
-- 💬 Ask me how I [entered the world of machine learning as a POC](https://www.himandthyme.com/say-hi/)
+- 💬 Intrigued about my journey as a POC in the realm of machine learning? [Feel free to ask!](https://www.himandthyme.com/say-hi/)
 
-- 📫 How to reach me **nadine@himandthyme.com**
+- 📫 Connect with me at **nadine@himandthyme.com**, always excited to engage in meaningful conversations.
 
-- 📝 Find out more about me on my [Resume](https://drive.google.com/file/d/1km4CjI_bXw618S09M92qmZwd3tzZFZqA/view?usp=sharing)
+- 📝 Get to know more about my professional journey via my [Resume](https://drive.google.com/file/d/1km4CjI_bXw618S09M92qmZwd3tzZFZqA/view?usp=sharing)
 
-- 😎 I'm a classic book enthusiast & roller skating lover📚 🛼
-
-- 🌞 Little known history fact **Did you know that the shortest recorded war in history was fought between Zanzibar and Great Britain in 1896? While the war lasted only 38 minutes, its implications for the people of Zanzibar were profound.** *The British victory marked the end of Zanzibar's sovereignty and the start of a period of colonization and economic transformation. Although the British abolished the slave trade, which had been a source of oppression and human rights abuses, their rule was not without challenges, including political instability and tensions between different ethnic and religious groups. Zanzibar ultimately gained independence in 1963, but the legacy of British colonialism has had lasting effects on the island nation and its people.*
-
+- 😎 When not coding or reading classic literature, you might find me roller skating, embracing the balance of life!🛼📚 
 
 ### 🚀Latest blog posts
 <!-- BLOG-POST-LIST:START -->
