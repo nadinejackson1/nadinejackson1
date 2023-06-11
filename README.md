@@ -5,23 +5,23 @@
 <h3 align="center">I enjoy building projects centered around creating meaningful change for people + communities✨</h3>
 
 
-- 🔭 I’m currently working on the [100 Days of Machine Learning](https://github.com/nadinejackson1/100DaysofML) challenge, exploring the depth of AI and its infinite possibilities. 
+ 🔭 I’m currently working on the [100 Days of Machine Learning](https://github.com/nadinejackson1/100DaysofML) challenge, exploring the depth of AI and its infinite possibilities. 
 
-- 👩‍🔬 Diving deep into the world of **Decentralized Machine Learning**, deciphering its intricacies for better, fairer systems.
+ 👩‍🔬 Diving deep into the world of **Decentralized Machine Learning**, deciphering its intricacies for better, fairer systems.
 
-- 🤝 Actively seeking collaborators for groundbreaking research papers focusing on **Decentralized learning** and/or **AI ethics**.
+ 🤝 Actively seeking collaborators for groundbreaking research papers focusing on **Decentralized learning** and/or **AI ethics**.
 
-- 👩‍💻 You can explore my innovative projects centered on creating meaningful impact on [Github](https://www.github.com/nadinejackson1)
+ 👩‍💻 You can explore my innovative projects centered on creating meaningful impact on [Github](https://www.github.com/nadinejackson1)
 
-- 📝 I regularly write articles about tech, family, faith & nutrition at [HIM&thyme](https://www.himandthyme.com)
+ 📝 I regularly write articles about tech, family, faith & nutrition at [HIM&thyme](https://www.himandthyme.com)
 
-- 💬 Intrigued about my journey as a POC in the realm of machine learning? [Feel free to ask!](https://www.himandthyme.com/say-hi/)
+ 💬 Intrigued about my journey as a POC in the realm of machine learning? [Feel free to ask!](https://www.himandthyme.com/say-hi/)
 
-- 📫 Connect with me at **nadine@himandthyme.com**, always excited to engage in meaningful conversations.
+ 📫 Connect with me at **nadine@himandthyme.com**, always excited to engage in meaningful conversations.
 
-- 📝 Get to know more about my professional journey via my [Resume](https://drive.google.com/file/d/1km4CjI_bXw618S09M92qmZwd3tzZFZqA/view?usp=sharing)
+ 📝 Get to know more about my professional journey via my [Resume](https://drive.google.com/file/d/1km4CjI_bXw618S09M92qmZwd3tzZFZqA/view?usp=sharing)
 
-- 😎 When not coding or reading classic literature, you might find me roller skating, embracing the balance of life!🛼📚 
+ 😎 When not coding or reading classic literature, you might find me roller skating, embracing the balance of life!🛼📚 
 
 ### 🚀Latest blog posts
 <!-- BLOG-POST-LIST:START -->
