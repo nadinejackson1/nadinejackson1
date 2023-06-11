@@ -2,7 +2,7 @@
 <h1 align="center">Welcome! I'm Nadine 🫶 <img src="https://github.com/NadineJackson1/nadinejackson1/blob/main/tumblr_1bef7a46c8e5acfe80c6e18872e8852e_fbf4ffab_540.gif" width="0" height="0" style="float:right" alt="Isabelle"> </h1>
 
 
-<h3 align="center">I enjoy building projects centered around creating meaningful change for people + communities✨</h3>
+<h3 align="center">Your go-to AI Researcher passionate about decentralized learning and tech for good 🌍💻✨</h3>
 
 
  🔭 I’m currently working on the [100 Days of Machine Learning](https://github.com/nadinejackson1/100DaysofML) challenge, exploring the depth of AI and its infinite possibilities. 
