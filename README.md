@@ -21,7 +21,7 @@
 
  📝 Get to know more about my professional journey via my [Resume](https://drive.google.com/file/d/1km4CjI_bXw618S09M92qmZwd3tzZFZqA/view?usp=sharing)
 
- 😎 When not coding or reading classic literature, you might find me roller skating, embracing the balance of life!🛼 📚 
+ 😎 When not coding or reading classic literature, you might find me roller skating, embracing the balance of life!🛼📚 
 
 ### 🚀Latest blog posts
 <!-- BLOG-POST-LIST:START -->
